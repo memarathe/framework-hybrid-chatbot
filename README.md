@@ -1,4 +1,4 @@
-# 🤖 Hybrid Chatbot Generator
+# Hybrid Chatbot Generator
 
 A modular, scalable Python application that combines AI-powered pattern generation with rule-based chatbot testing. Generate regex patterns using Google's Gemini AI and test your chatbot in real-time through an intuitive Gradio interface.
 
@@ -11,6 +11,12 @@ A modular, scalable Python application that combines AI-powered pattern generati
 - **💾 Export Conversations**: Save chat logs in multiple formats
 - **🎨 Beautiful UI**: Clean, intuitive Gradio interface
 - **📦 Modular Architecture**: Scalable and maintainable code structure
+
+
+## High LeveL Architecture Diagram
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0d9bd08-3fd2-4830-9460-e76579e8c37f" />
+
 
 ## 📋 Table of Contents
 
@@ -82,6 +88,12 @@ cp .env.example .env
    ```
 3. **Open your browser** to `http://localhost:7860`
 4. **Start generating patterns** and testing your chatbot!
+
+
+## User Interface
+
+<img width="1401" height="1276" alt="image" src="https://github.com/user-attachments/assets/7b560126-d986-4f27-8f78-e19212983ec1" />
+
 
 ## 📁 Project Structure
 
