@@ -1,0 +1,10 @@
+# Core dependencies
+google-genai>=0.2.0
+python-dotenv>=1.0.0
+gradio>=4.0.0
+
+# NLP dependencies
+nltk>=3.8.1
+
+# Additional utilities
+typing-extensions>=4.0.0
